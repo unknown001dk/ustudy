@@ -1,1 +1,1 @@
-# ustudyproject
+# ustudy
